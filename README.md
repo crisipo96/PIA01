@@ -1,5 +1,3 @@
-# PIA01
-
 <h1>TAREA ONLINE PIA01</h1>
 <h3>Habilitando un perfil en el ecosistema de desarrollo de inteligencia artifical</h3>
 
